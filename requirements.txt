@@ -1,0 +1,24 @@
+# Core dependencies
+unsloth
+datasets
+transformers
+trl
+vllm
+python-Levenshtein
+
+# Scientific computing
+numpy
+scipy
+
+# Evaluation and visualization
+scikit-learn
+matplotlib
+seaborn
+
+# API clients
+openai
+pydantic
+
+# Utilities
+pyyaml
+tqdm
