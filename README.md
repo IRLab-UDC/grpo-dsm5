@@ -1,6 +1,6 @@
-# Zero-Shot Clinical Reasoning in Mental Health with GRPO
+# Improving Clinical Reliability of LLM Reasoning for Depression Assessment via Group Relative Policy Optimization
 
-This repository contains the code for the paper "Zero-Shot Clinical Reasoning in Mental Health with Group Relative Policy Optimization" by Bao et al. (2025).
+This repository contains the code for the paper "Improving Clinical Reliability of LLM Reasoning for Depression Assessment via Group Relative Policy Optimization".
 
 ## Overview
 
@@ -238,7 +238,7 @@ If you use this code, please cite:
 
 ```bibtex
 @article{bao2025grpo,
-  title={Zero-Shot Clinical Reasoning in Mental Health with Group Relative Policy Optimization},
+  title={Improving Clinical Reliability of LLM Reasoning for Depression Assessment via Group Relative Policy Optimization},
   author={Bao, Eliseo and Perez, Anxo and Parapar, Javier},
   year={2025}
 }
@@ -246,7 +246,7 @@ If you use this code, please cite:
 
 ## Acknowledgments
 
-This work was supported by the project PID2022-137061OB-C21 (MCIN/AEI/10.13039/501100011033, Ministerio de Ciencia e Innovación, ERDF); the Consellería de Educación, Universidade e Formación Profesional, Spain (grant number ED481A-2024-079); and the European Regional Development Fund, which supports the CITIC Research Center.
+This work was supported by the project PID2022-137061OB-C21 (MCIN/AEI/10.13039/501100011033, Ministerio de Ciencia e Innovación, ERDF, \textit{A way of making Europe} by the European Union); the Consellería de Educación, Universidade e Formación Profesional, Spain (grant number ED481A-2024-079 and accreditations ED431G 2023/01 and GRC ED431C 2025/49); and the European Regional Development Fund, which supports the CITIC Research Center.
 
 ## Contact
 
