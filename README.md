@@ -1,4 +1,4 @@
-# Improving Clinical Reliability of LLM Reasoning for Depression Assessment via Group Relative Policy Optimization
+# Improving Clinical Reliability of LLM Reasoning for Depression Assessment via Structured Generation and GRPO
 
 This repository contains the code for the paper "Improving Clinical Reliability of LLM Reasoning for Depression Assessment via Group Relative Policy Optimization".
 
